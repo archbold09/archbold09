@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angel Archbold</h1>
-<h3 align="center">A passionate web developer in Colombia</h3>
+<h3 align="center">A passionate web developer from Colombia</h3>
 
 - 🔭 I’m currently working on [Extreme Technologies S.A](#)
 
