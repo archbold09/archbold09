@@ -3,7 +3,7 @@
 
 - 🌱 I am currently studying at Platzi **Web technologies, Desing, English**
 
-- 👨‍💻 All of my projects are available at [https://angelarchboldweb.vercel.app/](https://angelarchboldweb.vercel.app/)
+- 👨‍💻 All of my projects are available at [angelarchboldweb.vercel.app](https://angelarchboldweb.vercel.app/)
 
 - 💬 Ask me about **Javascript :)**
 
