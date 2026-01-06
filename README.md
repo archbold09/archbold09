@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFE600&height=200&section=header&text=Hey!%20I'm%20Angel%20👋&fontSize=50&fontColor=333&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C3483&height=200&section=header&text=Hey!%20I'm%20Angel%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 
 <div align="center">
 
-### 💛 Web Developer from Colombia 🇨🇴
+### 💜 Web Developer from Colombia 🇨🇴
 
-[![Portfolio](https://img.shields.io/badge/🚀_Mi_Portfolio-FFE600?style=for-the-badge&logoColor=black)](https://angelarchboldweb.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🚀_Mi_Portfolio-6C3483?style=for-the-badge&logoColor=white)](https://angelarchboldweb.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archbold09/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelarchbold09@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/angel_archbold)
@@ -32,7 +32,7 @@ const angel = {
 <div align="center">
 
 ### 👨‍💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-FFE600?style=for-the-badge&logo=javascript&logoColor=333)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -53,7 +53,7 @@ const angel = {
 ### ☁️ Cloud Services
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFE600?style=for-the-badge&logo=firebase&logoColor=333)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=333)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -71,6 +71,8 @@ const angel = {
 
 ### 💬 Let's Connect!
 
+**I love connecting with different people** so if you want to say **hi, I'll be happy to meet you!** 😄
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFE600&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C3483&height=100&section=footer"/>
